@@ -25,8 +25,7 @@ Rowlet has 4 components communicating with each other: a 5V Adafruit Trinket mic
 
 Psyduck also has 4 components communicating with each other: a 5V Adafruit Trinket microcontroller, a push button, a single RGB Smart Neopixel and a piezo buzzer.
 
-<img src="https://github.com/BetyMehide/PokeRoyale/blob/master/Img/RowletWiring.PNG">
-<img src="https://github.com/BetyMehide/PokeRoyale/blob/master/Img/PsyduckWiring.PNG">
+<img src="https://github.com/BetyMehide/PokeRoyale/blob/master/Img/RowletWiring.PNG" width=40%><img src="https://github.com/BetyMehide/PokeRoyale/blob/master/Img/PsyduckWiring.PNG" width=40%>
 
 ## Fabrication
 The casing of the Pokemon units used several fabrication methods including laser cutting, 3D printing and milling. The 3D model for Rowlet and the bottom halves of the puzzle platforms were designed from scratch using Autodesk Fusion 360. The puzzles as well as the bottom half of Rowlet's character were printed out in white PLA using the Ultimaker 3 and everything else was printed using clear photopolymer resin using the Formlabs Form 2 printers. The top plate for both puzzle platforms was designed in 2D using Adobe Illustrator and cut out from 3mm clear acrylic using the Formlabs laser cutters. The custom made PCBs were designed using Eagle and milled out using the Bantam Tools Desktop PCB Milling Machine.
